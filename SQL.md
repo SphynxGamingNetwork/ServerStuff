@@ -1,6 +1,3 @@
-# ServerStuff
-SQL / Scripts / Etc.
-
 ##SQL Useful Queries:
 
 ###Default template to change an value of an Table_Row of an ID OR Name
