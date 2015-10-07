@@ -175,8 +175,8 @@ and if u want more % just change number 1.15 if 25% = 1.25 etc
     INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`, `data2`) VALUES (@GOB_Entry, 10, @GOB_Display, @GOB_Name, 1, @Event_scriptID);
     REPLACE INTO `event_scripts` (`id`, `command`, `datalong`, `x`, `y`, `z`, `o`) VALUES (@Event_scriptID, 6, @MAP, @X, @Y, @Z, @O);
 
-###Create something nice
+###Updates the broadcast with the desired broadcast and color
 
-    
+    SET @Text := '|cffffff00[|c00077766Broadcast_Here|cffffff00]: |cFFF222FF%s|r';
 
-help me
+    UPDATE trinity_string SET content_default=@Text WHERE entry=11000 LIMIT 1;
