@@ -29,15 +29,14 @@
 
 ###VIP
 *VIP Commands
-    - tele
-    - character changerace [FREE]
-    - character changefaction [FREE]
-    - character customize [FREE]
-    - character rename [FREE]
-    - instance unbind all
-    - rates up to 10x
+    tele
+    character changerace [FREE]
+    character changefaction [FREE]
+    character customize [FREE]
+    character rename [FREE]
+    instance unbind all
+    rates up to 10x
 
 ###Player
 *Standard commands
-    - chat
-    - 
+    chat
