@@ -1,7 +1,7 @@
 ##Ranks of Realms: Furious, Return of Amora.
 
 ###Owner
-* All commands and permissions to all realm including hosted.
+* All commands and permissions to all realms including hosted.
 
 ###Realm-Owner
 * All commands and permissions granted to specific Realm
